@@ -14,7 +14,6 @@ A responsive multi-page company website developed using HTML, CSS, and JavaScrip
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
 - Figma
 
 ## Live Demo
